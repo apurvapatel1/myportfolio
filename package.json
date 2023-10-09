@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "my portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apurvapatel1/portfolio.git"
+  },
+  "author": "Apurva Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apurvapatel1/portfolio/issues"
+  },
+  "homepage": "https://github.com/apurvapatel1/portfolio#readme"
+}
